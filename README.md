@@ -15,22 +15,22 @@ A simple yet elegant Flutter note-taking app with a beautiful UI. Easily create,
 
 Follow these steps to get the app up and running on your local machine:
 
-### 1. Clone the repository:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/Jejekdf/My_Notes.git
 
-### 2. Navigate to the project directory
+2. Navigate to the project directory
 
     ```bash
     cd My_Notes
-    
-### 3. Install dependencies
+
+3. Install dependencies
 
     ```bash
     flutter pub get
 
-### 4. Run the app
+4. Run the app
 
     ```bash
     flutter run
