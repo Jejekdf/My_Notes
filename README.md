@@ -35,17 +35,30 @@ Follow these steps to get the app up and running on your local machine:
     ```bash
     flutter run
 
-##  🛠️ Built With
+## 🛠️ Built With
 
-Flutter - UI toolkit for building natively compiled apps
+- **Flutter** – UI toolkit for building natively compiled apps  
+- **SQLite** – Local database for offline data storage  
+- **flutter_staggered_grid_view** – For dynamic grid layouts  
+- **flutter_launcher_icons** – For generating app icons automatically
 
-SQLite - Local database for offline data storage
-
-flutter_staggered_grid_view - For dynamic grid layouts
 
 ## 📱 Screenshots
 
-![Login Page](assets/images/login.jpg)
-![Home Page](assets/images/home.jpg)
-![Edit Note](assets/images/edit.jpg)
+### 🔐 Login Page
+![Login](assets/images/login.jpg)
 
+### 🏠 Home Page
+![Home](assets/images/home.jpg)
+
+### ✏️ Edit Note
+![Edit](assets/images/edit.jpg)
+
+
+
+
+## 📝 License
+
+This project is protected under **All Rights Reserved**.  
+You may not copy, modify, distribute, or use this project without permission.  
+🔒 Unauthorized use is strictly prohibited.
