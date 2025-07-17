@@ -54,11 +54,3 @@ Follow these steps to get the app up and running on your local machine:
 ### ✏️ Edit Note
 ![Edit](assets/images/edit.jpg)
 
-
-
-
-## 📝 License
-
-This project is protected under **All Rights Reserved**.  
-You may not copy, modify, distribute, or use this project without permission.  
-🔒 Unauthorized use is strictly prohibited.
